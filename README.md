@@ -7,14 +7,19 @@ Pull requests are requests to merge changes from one branch into another, which 
 1. Push changes to a branch.
 2. Go to the repo on GitHub.
 3. Click on "Pull Requests."
-4. Click on "New Pull Request".
+4. Click on "New Pull Request."
 5. Select base and compare branches.
 6. Add the title and description of the change.
 7. Click "Create Pull Request."
 ## d. Describe the steps to add a collaborator to a repository (share write permissions)
-
+1. Go to the repository on GitHub.
+2. Click "Settings."
+3. Select "Manage Access."
+4. Click "Invite a Collaborator."
+5. Enter Username and set permissions.
+6. Click "Add" or "Invite."
 ## e. What is the difference between `git` and `GitHub`?
-
+git is the local version control system. GitHub is a cloud-based service for hosting Git repos and team collaboration.
 ## f. What does `git diff` do?
 
 ## g. What is the `main` branch?
