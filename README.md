@@ -21,7 +21,8 @@ Pull requests are requests to merge changes from one branch into another, which 
 ## e. What is the difference between `git` and `GitHub`?
 git is the local version control system. GitHub is a cloud-based service for hosting Git repos and team collaboration.
 ## f. What does `git diff` do?
-
+Shows the differences between file versions, commits, or branches.
 ## g. What is the `main` branch?
-
+This is the default branch for stable, production-ready code.
 ## h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
+No, we should use branches and pull requests to merge changes into main for better code management.
